@@ -1,10 +1,3 @@
-/*
- * This ESP32 code is created by esp32io.com
- *
- * This ESP32 code is released in the public domain
- *
- * For more detail (instruction and wiring diagram), visit https://esp32io.com/tutorials/esp32-sound-sensor
- */
 
 #define SENSOR_PIN 18 // ESP32 pin GPIO18 connected to the OUT pin of the sound sensor
 
